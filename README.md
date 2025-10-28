@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jvit04
-- 👀 I’m interested in learning programming and anything of IA
-- 🌱 I’m currently learning Phyton
+- 👀 I’m interested in learning programming and in a future building IA's
+- 🌱 I’m currently learning OOP with Java
 - 📫 How to reach me jviteri2004@gmail.com
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I can lost in my mind forgetting what I was doing
